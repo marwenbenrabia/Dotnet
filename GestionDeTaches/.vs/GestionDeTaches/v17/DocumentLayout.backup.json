@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\houda\\OneDrive\\Bureau\\projet-winform-dotnet\\GestionDeTaches\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD8B862-CE5B-4DD2-AC4B-F71242423F40}|GestionDeTaches\\GestionDeTaches.csproj|C:\\Users\\houda\\OneDrive\\Bureau\\projet-winform-dotnet\\GestionDeTaches\\gestiondetaches\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FD8B862-CE5B-4DD2-AC4B-F71242423F40}|GestionDeTaches\\GestionDeTaches.csproj|solutionrelative:gestiondetaches\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD8B862-CE5B-4DD2-AC4B-F71242423F40}|GestionDeTaches\\GestionDeTaches.csproj|C:\\Users\\houda\\OneDrive\\Bureau\\projet-winform-dotnet\\GestionDeTaches\\gestiondetaches\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD8B862-CE5B-4DD2-AC4B-F71242423F40}|GestionDeTaches\\GestionDeTaches.csproj|solutionrelative:gestiondetaches\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD8B862-CE5B-4DD2-AC4B-F71242423F40}|GestionDeTaches\\GestionDeTaches.csproj|C:\\Users\\houda\\OneDrive\\Bureau\\projet-winform-dotnet\\GestionDeTaches\\gestiondetaches\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD8B862-CE5B-4DD2-AC4B-F71242423F40}|GestionDeTaches\\GestionDeTaches.csproj|solutionrelative:gestiondetaches\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD8B862-CE5B-4DD2-AC4B-F71242423F40}|GestionDeTaches\\GestionDeTaches.csproj|C:\\Users\\houda\\OneDrive\\Bureau\\projet-winform-dotnet\\GestionDeTaches\\gestiondetaches\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD8B862-CE5B-4DD2-AC4B-F71242423F40}|GestionDeTaches\\GestionDeTaches.csproj|solutionrelative:gestiondetaches\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD8B862-CE5B-4DD2-AC4B-F71242423F40}|GestionDeTaches\\GestionDeTaches.csproj|c:\\users\\houda\\onedrive\\bureau\\projet-winform-dotnet\\gestiondetaches\\gestiondetaches\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD8B862-CE5B-4DD2-AC4B-F71242423F40}|GestionDeTaches\\GestionDeTaches.csproj|solutionrelative:gestiondetaches\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\houda\\OneDrive\\Bureau\\projet-winform-dotnet\\GestionDeTaches\\GestionDeTaches\\Form1.cs",
+              "RelativeDocumentMoniker": "GestionDeTaches\\Form1.cs",
+              "ToolTip": "C:\\Users\\houda\\OneDrive\\Bureau\\projet-winform-dotnet\\GestionDeTaches\\GestionDeTaches\\Form1.cs",
+              "RelativeToolTip": "GestionDeTaches\\Form1.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAEwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:53:13.29Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\houda\\OneDrive\\Bureau\\projet-winform-dotnet\\GestionDeTaches\\GestionDeTaches\\Task.cs",
+              "RelativeDocumentMoniker": "GestionDeTaches\\Task.cs",
+              "ToolTip": "C:\\Users\\houda\\OneDrive\\Bureau\\projet-winform-dotnet\\GestionDeTaches\\GestionDeTaches\\Task.cs",
+              "RelativeToolTip": "GestionDeTaches\\Task.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:33:57.914Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\houda\\OneDrive\\Bureau\\projet-winform-dotnet\\GestionDeTaches\\GestionDeTaches\\Program.cs",
+              "RelativeDocumentMoniker": "GestionDeTaches\\Program.cs",
+              "ToolTip": "C:\\Users\\houda\\OneDrive\\Bureau\\projet-winform-dotnet\\GestionDeTaches\\GestionDeTaches\\Program.cs",
+              "RelativeToolTip": "GestionDeTaches\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:47:52.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "C:\\Users\\houda\\OneDrive\\Bureau\\projet-winform-dotnet\\GestionDeTaches\\GestionDeTaches\\Priority.cs",
+              "RelativeDocumentMoniker": "GestionDeTaches\\Priority.cs",
+              "ToolTip": "C:\\Users\\houda\\OneDrive\\Bureau\\projet-winform-dotnet\\GestionDeTaches\\GestionDeTaches\\Priority.cs",
+              "RelativeToolTip": "GestionDeTaches\\Priority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T16:08:14.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\houda\\OneDrive\\Bureau\\projet-winform-dotnet\\GestionDeTaches\\GestionDeTaches\\Form1.cs",
+              "RelativeDocumentMoniker": "GestionDeTaches\\Form1.cs",
+              "ToolTip": "C:\\Users\\houda\\OneDrive\\Bureau\\projet-winform-dotnet\\GestionDeTaches\\GestionDeTaches\\Form1.cs [Design]",
+              "RelativeToolTip": "GestionDeTaches\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:49:48.438Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
